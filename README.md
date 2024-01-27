@@ -1,5 +1,5 @@
-making stuff happen, creating impact.
-(trying)
+creating impact, making stuff happen.
+(shyd)
 <!---
 -  👋 Hi, I’m @yuvraj-wale
 - 👀 I’m interested in software development and problem solving
