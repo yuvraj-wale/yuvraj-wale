@@ -1,4 +1,4 @@
-creating impact, making stuff happen.
+creating impact, making things happen.
 (shyd)
 <!---
 -  👋 Hi, I’m @yuvraj-wale
